@@ -12,18 +12,8 @@ cir2.innerHTML = `<img src= "imgs/13d.png"/>`;
 
 const weather = {};
 
-weather.temperature = {
-    unit : "celsius",
-    value: 18,
 
-}
-weather.description = {
-    description:"few clouds",
-    iconid : "01d",
-    city:"london",
-    country:"GB",
 
-}
 
 const kelvin = 273;
 const key = "20b34a9d7ccb5cd85e154737b6782279";

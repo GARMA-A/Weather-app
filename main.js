@@ -3,6 +3,11 @@ const tempel = document.querySelector(".temperature-value p");
 const desel = document.querySelector(".temperature-description p");
 const locael = document.querySelector(".location");
 const notiel = document.querySelector(".notification");
+const cir1 =  document.querySelector(".circle-spain");
+const cir2 =  document.querySelector(".circle-spain2");
+cir1.innerHTML = `<img src= "imgs/01d.png"/>`;
+cir2.innerHTML = `<img src= "imgs/13d.png"/>`;
+
 
 
 const weather = {};

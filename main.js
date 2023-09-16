@@ -117,7 +117,7 @@ function showError(error)
     notiel.classList.add("ani");
     notiel.style.display ="block";
 
-    notiel.innerHTML=`<p>${error.message} !</p>`;
+    notiel.innerHTML=`<p>PLZ turn on GPS !</p>`;
 
 }
 

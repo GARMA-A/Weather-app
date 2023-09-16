@@ -11,7 +11,11 @@ cir2.innerHTML = `<img src= "imgs/13d.png"/>`;
 
 
 const weather = {};
+weather.temperature = {
+    unit : "celsius",
+   
 
+}
 
 
 

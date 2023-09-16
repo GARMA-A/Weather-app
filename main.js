@@ -90,37 +90,6 @@ else
 });
 
 
-//  function getCurrentPosition(setPosition,error){
-
-
-// setPosition(position);
-// position.coords.latitude;
-// position.coords.longitude;
-// error(error) error.message;
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if('geolocation' in navigator)
 {
     navigator.geolocation.getCurrentPosition(setPosition,showError);

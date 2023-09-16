@@ -99,7 +99,7 @@ else
     notiel.classList.remove("back");
     notiel.classList.add("ani");
     notiel.style.display ="block";
-    notiel.innerHTML = "<p>PLZ turn on GPS</p>";
+    notiel.innerHTML = "<p>Please turn on GPS !</p>";
 
 }
 function setPosition(position)
@@ -117,7 +117,7 @@ function showError(error)
     notiel.classList.add("ani");
     notiel.style.display ="block";
 
-    notiel.innerHTML=`<p>PLZ turn on GPS !</p>`;
+    notiel.innerHTML=`<p>Please turn on GPS !</p>`;
 
 }
 

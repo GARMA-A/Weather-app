@@ -18,7 +18,6 @@ html
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0.1rem 0.1rem 10rem 2rem black inset;
     overflow: hidden;
 }
 .container
@@ -297,6 +296,9 @@ html
 
 @media only screen and (min-width:900px)
 {
+        .all{
+         box-shadow: 0.1rem 0.1rem 10rem 2rem black inset;
+    }
     .container{
         width: 35%;
         height: 65%;
@@ -325,6 +327,9 @@ html
 }
 @media only screen and (min-width:1200px)
 {
+    .all{
+         box-shadow: 0.1rem 0.1rem 10rem 2rem black inset;
+    }
     .container{
         width: 25%;
         height: 65%;

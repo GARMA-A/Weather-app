@@ -201,8 +201,8 @@ html
     {
        
         position: absolute;
-        top:73%;
-        left: 45%;
+        top:3%;
+        left: 50%;
         
         
         
@@ -213,8 +213,8 @@ html
     .all .circle-spain2
     {
         position: absolute;
-        top: 5%;
-        left: 5%;
+        top: 3%;
+        left: 10%;
         transform: translate(-100%,-100%) rotate(0);
       
         animation: spinner 8s linear infinite;

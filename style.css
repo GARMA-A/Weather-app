@@ -194,7 +194,7 @@ body
     top: 10%;
     left: 28%;
     
-  
+    z-index:150;
     animation: spinner 8s linear infinite;
 
 }
@@ -204,7 +204,7 @@ body
     top: 10%;
     left: 62%;
     transform: translate(-100%,-100%) rotate(0);
-  
+    z-index:150;
     animation: spinner 8s linear infinite;
 
 }

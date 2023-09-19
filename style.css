@@ -254,6 +254,7 @@ body
     font-size: 5rem;
     position: relative;
     bottom: 40px;
+    z-index:155;
 }
 .temperature-description
 {
@@ -305,6 +306,7 @@ body
     color: aliceblue;
     font-weight: 400;
     text-align: center;
+    z-index:155;
 }
 @keyframes error
 {
@@ -350,7 +352,7 @@ body
         top:3%;
         left: 5%;
     
-        
+        z-index:150;
         
       
         animation: spinner 8s linear infinite;
@@ -362,7 +364,7 @@ body
         top: 72%;
         left: 48%;
         transform: translate(-100%,-100%) rotate(0);
-      
+           z-index:150;
         animation: spinner 8s linear infinite;
     
     }

@@ -270,6 +270,7 @@ body
     font-size: 3rem;
     position: relative;
     bottom: 40px;
+    z-index:155;
 }
 .notification
 {

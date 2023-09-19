@@ -14,7 +14,6 @@ body
 {
     overflow: hidden;
 }
-
 .all
 {
     background-image: linear-gradient(to right bottom, rgb(119, 187, 255),rgb(83, 169, 255),rgb(73, 164, 254),rgb(5, 5, 28),rgb(5, 5, 28),rgb(5, 5, 28),rgb(0, 0, 0));

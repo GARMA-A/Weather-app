@@ -175,6 +175,7 @@ html
     background-image: linear-gradient(to right bottom, rgba(3, 147, 176, 0.544),rgb(141, 126, 193),rgba(73, 146, 210, 0.761));
    transition: all 0.3s;
    overflow: hidden;
+    z-index:100;
 
 
 
